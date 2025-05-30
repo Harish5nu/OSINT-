@@ -1,13 +1,13 @@
 # 🔍 Reverse Image Search – OSINT Toolkit #
 ## 📖 Overview ##
-This repository provides a quick reference guide to some of the most powerful and commonly used tools for Reverse Image Search in the field of Open Source Intelligence (OSINT). Reverse image search is crucial in identifying the origin of images, verifying profiles, tracking fake identities, and much more in cyber investigations.
+This repository provides a quick reference guide to some of the most powerful and commonly used tools for Reverse Image Search in the field of Open Source Intelligence (OSINT). Reverse image search is crucial in identifying the origin of images, verifying profiles, tracking fake identities, and much more in Cyber investigations.
 
 ## 📌 Contents ##
-✅ List of reverse image search tools
+✅ List of reverse image search tools.
 
-🌐 Links to official websites and tools
+🌐 Links to official websites and tools.
 
-🧠 Feature comparison for use in OSINT investigations
+🧠 Feature comparison for use in OSINT investigations.
 
 ## 🛠️ Popular Reverse Image Search Tools ##
 Tool	Link	Features
